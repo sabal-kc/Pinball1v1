@@ -1,0 +1,11 @@
+Player 1 controls:
+A- Left flipper
+D- Right flipper
+
+Player 2 controls:
+Left arrow- Left flipper
+Right arrow- Right flipper
+
+Game modes:
+Time based mode-2 mins, highest score wins
+5 balls mode- first to score 5 points wins
